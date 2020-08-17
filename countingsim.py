@@ -22,7 +22,7 @@ INITIAL = 30000
 #preset settings if not using Userinput()
 playerpref = {
         'numOfSimul':100, #how many times a player will visit a casino
-        'numOfTables':25, #how many tables the player will "wong" in the casino
+        'numOfTables':25, #how many tables the player will "wong" in the casino per visit
         'sessionBankroll':10000, #money brought to visit
         'otherPlayers':2, #how many players are playing at the table excluding player and dealer
         'betSpread':16, #bet spread
